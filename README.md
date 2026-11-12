@@ -53,9 +53,9 @@ Key R packages used in this project include:
 Getting Started:
 ----------------------------------
 1. Clone or download this repository.
-2. Open ARC_RIO_FRIO.Rmd in RStudio and set `data_dir` in the Parameters section to the folder that holds the nine RData files.
+2. Open ARC_RIO_FRIO_GITHUB.Rmd in RStudio. The notebook downloads the nine RData files from the R folder of this repository to a temporary folder and checks their MD5 checksums, so it needs an internet connection but no local data folder.
 3. Knit the notebook. Missing packages are installed automatically. The output is PDF, which needs a LaTeX distribution with xelatex such as TinyTeX.
-4. Figures are written to the ARC_RIO_FRIO_outputs folder inside `data_dir`.
+4. Figures are written to the ARC_RIO_FRIO_outputs folder in the working directory, which in RStudio is the folder that contains the notebook.
 
 Manuscript Summary:
 ----------------------------------
