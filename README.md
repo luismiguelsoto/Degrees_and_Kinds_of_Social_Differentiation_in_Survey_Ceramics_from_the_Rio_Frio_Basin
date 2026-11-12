@@ -22,7 +22,7 @@ Data Files:
 Repository Structure:
 ----------------------------------
 1. R Code Files:
-   - The main R notebook (ARC_RIO_FRIO.Rmd) contains the code to:
+   - The main R notebook (ARC_RIO_FRIO_GITHUB.Rmd) contains the code to:
      a) Load required packages and set up the CPU parallel backend.
      b) Load the nine RData inputs, assign each sherd to its Tairona site and to the residential unit of its own period, and validate these assignments against the unit databases.
      c) Estimate regional proportions, within-site differences between periods, rim diameters and production steps by vessel form.
@@ -59,6 +59,6 @@ Getting Started:
 
 Manuscript Summary:
 ----------------------------------
-Household ceramic assemblages can show both how much and in which ways residential units differed. This study analyzes 12,058 sherds from 494 collection locations of a full-coverage survey of 52.2 km² in the Río Frío basin, comparing 190 Neguanje, 178 Buritaca and 176 Tairona residential units. Finishing labor on undecorated vessels increased through time, as undecorated sherds with production steps rose from 0.081 to 0.199, and the increase holds within the same sites. Units differed beyond sherd sampling in every period, with excesses of 0.3072, 0.1119 and 0.2121, but most of that excess lay between collection locations, and only Tairona units also differed more than random groupings of their own locations (p 0.0490, and p 0.0016 without single-location units). Nonmetric multidimensional scaling in three dimensions (stress 0.087) separated an axis of finishing labor from one of firing. Modeled as shares, no attribute varied detectably with the number of terraces per Tairona site, whereas decorated sherd counts multiplied by 1.6642 with each doubling of terraces, most likely because larger sites yielded more sherds.
+Survey ceramics and terrace areas can show how much and in which ways residential units differed. This study analyzes 12,058 sherds and 2,526 terraces from a full-coverage survey of the Río Frío basin, Sierra Nevada de Santa Marta, Colombia, with two chance expectations, multidimensional scaling, quasibinomial models and Gini coefficients. Finishing labor on undecorated vessels increased from the Neguanje to the Tairona period. Units differed beyond sampling in every period, mostly between collection locations, and Tairona sites also differed as wholes, along finishing and firing axes, regardless of site size. Terrace area was moderately unequal but unrelated to ceramic differences.
 
 For questions or further information, please contact: lms313@pitt.edu
