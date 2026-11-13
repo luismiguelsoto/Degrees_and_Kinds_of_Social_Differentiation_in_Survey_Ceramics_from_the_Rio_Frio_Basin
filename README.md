@@ -9,15 +9,14 @@ Data Archive:
 
 Data Files:
 ----------------------------------
-1. CERAMICS_RIO_FRIO_2026.RData (object CERAMICS_RIO_FRIO_2026), 12,058 sherd records as points, with ceramic type, period, surface treatment, decoration, vessel form, function, rim type, rim diameter, firing core and production steps.
-2. TAIRONA_POLYGONS_SITES.RData (object poly_tai), 551 Tairona residential sites as polygons, with area in hectares.
-3. TAIRONA_STRUCTURES.RData (object str_tai), 2,526 terraces as points, with terrace diameter.
-4. NEGUANJE_WIDE_FORMAT_DATABASE_2026.RData (object wf_neg), 190 Neguanje residential units as polygons, with unit totals of sherds, vessel functions and terraces.
-5. BURITACA_WIDE_FORMAT_DATABASE_2026.RData (object wf_bur), 178 Buritaca residential units as polygons, with the same fields.
-6. TAIRONA_WIDE_FORMAT_DATABASE_2026.RData (object wf_tai), 176 Tairona residential sites with sherds as polygons, used to validate the attribution of Tairona sherds.
-7. NEGUANJE_STRUCTURES.RData (object str_neg), 365 terraces with Neguanje sherds as points.
-8. BURITACA_STRUCTURES.RData (object str_bur), 319 terraces with Buritaca sherds as points.
-9. POLYGON_SURVEY_RIO_FRIO.RData (object survey), the 52.2 km² survey area as one polygon.
+1. CERAMICS_RIO_FRIO_2026.RData
+2. TAIRONA_POLYGONS_SITES.RData
+3. TAIRONA_STRUCTURES.RData
+4. NEGUANJE_WIDE_FORMAT_DATABASE_2026.RData
+5. BURITACA_WIDE_FORMAT_DATABASE_2026.RData
+6. TAIRONA_WIDE_FORMAT_DATABASE_2026.RData
+7. NEGUANJE_STRUCTURES.RData
+8. BURITACA_STRUCTURES.RData
 
 Repository Structure:
 ----------------------------------
